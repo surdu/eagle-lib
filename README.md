@@ -1,2 +1,1 @@
-# eagle-lib
-My Eagle library
+Description coming soon
